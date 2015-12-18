@@ -1,5 +1,6 @@
 {
-  "name": "flow.js",
+  "name": "rlach-flow.js",
+  "version": "2.9.2"
   "main": "./dist/flow.js",
   "ignore": [
     "**/.*",
